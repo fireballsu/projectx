@@ -1,6 +1,6 @@
 # 🤖 AI Agent Chatbot
 
-A simple, interactive AI chatbot built with HTML, CSS, and JavaScript. Perfect for portfolio demonstration!
+A simple, interactive AI chatbot built with HTML, CSS, and JavaScript.
 
 ## ✨ Features
 
